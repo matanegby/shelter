@@ -7,3 +7,9 @@ body{
 ul {
     color: blueviolet;
 }
+
+.copyrights{
+    position:absolute;
+    bottom:10px;
+    width:100%;
+}
